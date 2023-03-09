@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Практическая работа№4</string>
+    <string name="search_hint">Поиск</string>
+    <string name="home_page">https://dot.tou.edu.kz/</string>
+    <string name="calendar">https://dot.tou.edu.kz/students-schedule</string>
+    <string name="profile">https://dot.tou.edu.kz/profile</string>
+    <string name="chat">https://dot.tou.edu.kz/chat</string>
+    <string name="forum">https://dot.tou.edu.kz/forums</string>
+    <string name="logout">https://dot.tou.edu.kz/auth/logout</string>
+    <string name="kuda_otpravit">Поделиться</string>
+    <string name="iz">из</string>
+    <string name="ne_naideno">Не найдено !</string>
+</resources>
